@@ -15,7 +15,7 @@ Here are some of my repositories:
 
 ## 🛠 Tools & Technologies
 - Automation: Selenium, Cypress, Playwright
-- Languages: Java, JavaScript, Python
+- Languages: Java, JavaScript
 - CI/CD: Jenkins, GitHub Actions
 - Testing: JUnit, Mocha, TestNG
 - API Testing: Postman, RestAssured
